@@ -1,0 +1,9 @@
+apify-client
+google-genai
+pydantic
+schedule
+python-dotenv
+pandas
+streamlit
+requests
+fpdf2
