@@ -1,4 +1,4 @@
-# UAE Real Estate Ads Competitor Intelligence Agent
+# Real Estate Ads Competitor Intelligence Agent
 
 An AI-powered marketing agent that scrapes Meta and Google Ads from top UAE real estate developers and analyzes their strategies using Gemini AI.
 
@@ -50,3 +50,4 @@ An AI-powered marketing agent that scrapes Meta and Google Ads from top UAE real
 - **Google Gemini**: AI analysis.
 - **Pandas**: Data handling.
 - **SMTP**: Email reporting.
+
